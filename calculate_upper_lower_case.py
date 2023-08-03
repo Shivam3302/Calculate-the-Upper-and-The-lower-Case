@@ -11,3 +11,7 @@ def count_lower_upper(n):
     return (f"The count of lower alphabet is {lower} and upper alphabet is {upper}")
     
 print(count_lower_upper(string))
+output:
+Enter the string: The quick Brow Fox
+No. of Upper case characters : 3
+No. of Lower case Characters : 12
